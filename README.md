@@ -2,36 +2,6 @@
 
 A full-stack application for marketers, bloggers, and startups to plan, generate, and manage high-quality content using OpenAI. Create blog post ideas, outlines, and full drafts with AI assistance, then edit and organize everything in one dashboard.
 
-## ✨ Features
-
-### 🤖 AI Content Generation
-- **Blog Post Ideas**: Generate 10 engaging, SEO-friendly title ideas
-- **Content Outlines**: Create detailed, structured blog post outlines
-- **Full Drafts**: Generate complete 800-1500 word blog posts
-- **Niche-Specific**: Tailored content for your target audience
-
-### ✏️ Content Editor
-- **Rich Text Editing**: Edit and refine AI-generated content
-- **Live Preview**: Switch between edit and preview modes
-- **Metadata Management**: Add titles, tags, and content details
-- **Word Count Tracking**: Monitor content length in real-time
-
-### 💾 Content Management
-- **Database Storage**: Save all content with user authentication
-- **Content Organization**: Tag and categorize your content
-- **Content History**: Track creation and modification dates
-- **Search & Filter**: Find content by type, tags, or creation date
-
-### 📤 Export Options
-- **Markdown Export**: Download content as `.md` files
-- **Text Export**: Save as plain `.txt` files
-- **Metadata Included**: All exports include tags, niche, and creation info
-
-### 🔐 Authentication
-- **User Authentication**: Secure login/signup with Supabase Auth
-- **Protected Routes**: User-specific content isolation
-- **Session Management**: Persistent login state
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js 15, React 18, TypeScript
